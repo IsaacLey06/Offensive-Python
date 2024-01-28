@@ -1,2 +1,2 @@
 # Offensive-Python
-Scripts focus on automating SQL injection by brute force.
+Scripts focus on automating web application pentesting.
